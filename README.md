@@ -4,5 +4,5 @@ Medieval Roleplay is an innovative and highly ambitious open.mp server set in a 
 
 # SERVER FEATURES 
 > [!IMPORTANT]
-> The features below do not do this gamemode justice. Please view full-overview to see a 1111 line and 36838 word document detailing every single feature in this gamemode (over 10 years of work).
+> This gamemode represents over 10 years of development, improvements, and continuous refinement, delivering an extensive and feature-rich roleplay experience.
 > 
