@@ -8,4 +8,3 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 # Accounts and characters
 • Register and log in with bcrypt passwords, behind a private night scene over the castle
 • Roleplay quiz for new accounts: 8 questions out of 42, 5 needed, repeated failures ban the IP
-• Two character slots per account, with a graveyard of dead and retired characters
