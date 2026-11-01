@@ -1,8 +1,4 @@
 Valrise Roleplay is an innovative and highly ambitious open.mp server set in a fictional kingdom during the 1200s. Active since 2018, the gamemode features custom gameplay architectures and immersive systems distinct from standard SA-MP roleplay environments. 
-
-![description]([https://i.imgur.com/dMGpaay.jpeg)
-#
-![description]([https://i.imgur.com/l5rFe8j.jpeg](https://i.imgur.com/dMGpaay.jpeg))
 --- 
 > [!IMPORTANT]
 > This gamemode represents over 10 years of development, improvements, and continuous refinement, delivering an extensive and feature-rich roleplay experience.
@@ -17,3 +13,6 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 - 86 cultures in 22 groups, each group with its own language. Players who don't know a language read scrambled words
 - Strangers show as "A stranger" until they introduce themselves with H, and every player keeps their own list of names
 - Tutorial island that teaches walking, the bag, fighting and riding before you reach the realm
+
+- 
+![description]([https://i.imgur.com/dMGpaay.jpeg)
