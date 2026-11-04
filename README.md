@@ -6,8 +6,12 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 --- 
 > [!IMPORTANT]
 > This gamemode represents over 10 years of development, improvements, and continuous refinement, delivering an extensive and feature-rich roleplay experience.
->
-> 
+
+
+![alt text](https://i.imgur.com/nJf9fXY.jpeg)
+![alt text](https://i.imgur.com/yaeMx4W.jpeg)
+![alt text](https://i.imgur.com/T7K5vcb.jpeg)
+
 # SERVER FEATURES 
 **• Accounts and characters**
 - Register and log in with bcrypt passwords, behind a private night scene over the castle
@@ -17,10 +21,6 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 - 86 cultures in 22 groups, each group with its own language. Players who don't know a language read scrambled words
 - Strangers show as "A stranger" until they introduce themselves with H, and every player keeps their own list of names
 - Tutorial island that teaches walking, the bag, fighting and riding before you reach the realm
-
-![alt text](https://i.imgur.com/nJf9fXY.jpeg)
-![alt text](https://i.imgur.com/yaeMx4W.jpeg)
-![alt text](https://i.imgur.com/T7K5vcb.jpeg)
 
 # Summary
 This is released as is. No support will be given on how to run it. If you know your way around open.mp and sampctl you'll figure it out. This gamemode is heavily dependant on PawnPlus and uses custom components to handle the load. I don't recommend delving into it if you are a novice scripter.
