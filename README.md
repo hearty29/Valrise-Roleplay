@@ -1,7 +1,6 @@
-Valrise Roleplay is an innovative and highly ambitious open.mp server set in a fictional kingdom during the 1200s. Active since 2018, the gamemode features custom gameplay architectures and immersive systems distinct from standard SA-MP roleplay environments. 
-
-
 ![Alt [Text](Image_URL_or_Path)](https://i.imgur.com/dMGpaay.jpeg)
+
+Valrise Roleplay is an innovative and highly ambitious open.mp server set in a fictional kingdom during the 1200s. Active since 2018, the gamemode features custom gameplay architectures and immersive systems distinct from standard SA-MP roleplay environments. 
 
 --- 
 > [!IMPORTANT]
