@@ -18,4 +18,4 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 - Strangers show as "A stranger" until they introduce themselves with H, and every player keeps their own list of names
 - Tutorial island that teaches walking, the bag, fighting and riding before you reach the realm
 
-![alt text](https://github.com/DignitySAMP/medieval-roleplay/blob/main/images/castle.webp)
+![Project Screenshot](https://github.com/DignitySAMP/medieval-roleplay/blob/main/images/castle.webp)
