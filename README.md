@@ -22,7 +22,7 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 ![alt text](https://i.imgur.com/yaeMx4W.jpeg)
 ![alt text](https://i.imgur.com/T7K5vcb.jpeg)
 
-Summary
+# Summary
 This is released as is. No support will be given on how to run it. If you know your way around open.mp and sampctl you'll figure it out. This gamemode is heavily dependant on PawnPlus and uses custom components to handle the load. I don't recommend delving into it if you are a novice scripter.
 
 A few things you should know before you start it:
