@@ -37,5 +37,3 @@ The code is BSD 3-Clause. View third party code in legacy/ and plugins/ for per-
 ![alt text](https://i.imgur.com/njlB7Fx.jpeg)
 ![alt text](https://i.imgur.com/pisfNui.jpeg)
 ![alt text](https://i.imgur.com/sZZEgHM.jpeg)
-
-![alt text](
