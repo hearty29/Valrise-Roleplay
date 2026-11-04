@@ -19,7 +19,7 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 - Tutorial island that teaches walking, the bag, fighting and riding before you reach the realm
 
 ![alt text](https://i.imgur.com/nJf9fXY.jpeg)
-![alt text](https://i.imgur.com/nJf9fXY.jpeg)
+![alt text](https://i.imgur.com/yaeMx4W.jpeg)
 ![alt text](https://i.imgur.com/T7K5vcb.jpeg)
 
 ![alt text](
