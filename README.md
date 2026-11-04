@@ -20,6 +20,7 @@ Valrise Roleplay is an innovative and highly ambitious open.mp server set in a f
 - 86 cultures in 22 groups, each group with its own language. Players who don't know a language read scrambled words
 - Strangers show as "A stranger" until they introduce themselves with H, and every player keeps their own list of names
 - Tutorial island that teaches walking, the bag, fighting and riding before you reach the realm
+- 
 ![alt text](https://i.imgur.com/Qy5iNC3.jpeg)
 ![alt text](https://i.imgur.com/kveiHGz.jpeg)
 ![alt text](https://i.imgur.com/njlB7Fx.jpeg)
