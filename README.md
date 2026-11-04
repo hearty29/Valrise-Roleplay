@@ -32,9 +32,10 @@ The roleplay quiz still links the old Discord invite which no longer works.
 Villagers' dialogue lines were supposed to use Claude Haiku for dynamic speech generation. That's off by default and staff only, and the service isn't part of this release but there will be code remaining.
 The code is BSD 3-Clause. View third party code in legacy/ and plugins/ for per-component licenses.
 
-![alt text](
-![alt text](
-![alt text](
-![alt text](
-![alt text](
+![alt text](https://i.imgur.com/Qy5iNC3.jpeg)
+![alt text](https://i.imgur.com/kveiHGz.jpeg)
+![alt text](https://i.imgur.com/njlB7Fx.jpeg)
+![alt text](https://i.imgur.com/pisfNui.jpeg)
+![alt text](https://i.imgur.com/sZZEgHM.jpeg)
+
 ![alt text](
